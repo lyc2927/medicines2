@@ -1,0 +1,4 @@
+torch
+scikit-learn
+lifelines==0.27.7
+python==3.7
